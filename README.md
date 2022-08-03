@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/felippe-menezes-615436237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=l0p0v&show_icons=true&theme=dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=l0p0v&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=l0p0v&show_icons=true&theme=dark)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=l0p0v&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/l0p0v/l0p0v/blob/output/github-contribution-grid-snake.svg)
