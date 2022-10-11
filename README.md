@@ -22,3 +22,6 @@ Moro no Rio de Janeiro e estou estudando Python para: machine learning, automaç
 <a href="https://github.com/l0p0v/cursopython">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=cursopython&theme=dark" />
 </a>
+<a href="https://github.com/l0p0v/ExercisesPython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=ExercisesPython&theme=dark" />
+</a>
