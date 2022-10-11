@@ -13,12 +13,12 @@ Moro no Rio de Janeiro. Estou estudando programação 🐍, web 💻 e ciência 
 
 ![Snake animation](https://github.com/l0p0v/l0p0v/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/l0p0v/guppe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=guppe&theme=dark" />
-</a>
-<a href="https://github.com/l0p0v/WebDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=WebDev&theme=dark" />
-</a>
 <a href="https://github.com/l0p0v/Formacao-Cientista-de-Dados">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=Formacao-Cientista-de-Dados&theme=dark" />
+</a>
+<a href="https://github.com/l0p0v/Projetos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=Projetos&theme=dark" />
+</a>
+<a href="https://github.com/l0p0v/cursopython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=l0p0v&repo=cursopython&theme=dark" />
 </a>
