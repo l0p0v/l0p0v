@@ -7,7 +7,7 @@
 
 <p>Eu sou Felippe Andrade de Menezes 🧑
 
-Moro no Rio de Janeiro. Estou estudando programação 🐍, web 💻 e ciência de dados 📊 na Udemy 🧑‍💻</p>
+Moro no Rio de Janeiro e stou estudando Python para machine learning, automações, análise e ciência de dados 📊</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0p0v&show_icons=true&theme=dark&count_private=True&include_all_commits=True&custom_title=Felippe's+GitHub+Stats&line_height=24)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0p0v&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
