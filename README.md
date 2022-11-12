@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning data science
+🌱 I’m currently learning Data Science
+⚡ Fact, I use tab for indentation
 
 
 ## 🌐 Socials:
