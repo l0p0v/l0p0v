@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌱 I’m currently learning Data Science<br>⚡ Fact, I use tab for indentation
 
 
